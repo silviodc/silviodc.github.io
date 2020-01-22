@@ -1,5 +1,5 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
@@ -47,7 +47,7 @@ about_content: | # this will include new lines to allow paragraphs
 # experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
- education_title: PhD in Informatics
+# education_title: PhD in Informatics
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
