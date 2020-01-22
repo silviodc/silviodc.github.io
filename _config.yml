@@ -4,15 +4,13 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Silvio Cardoso
-title: Software Engineer and Data Scientist
+title: Data Scientist and Software Engineer 
 email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
 
 darkmode: false
 
 # Social links
-linkedin_username: linkedin.com/in/silvio-cardoso-57975946
+linkedin_username: silvio-cardoso-57975946
 orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
@@ -49,7 +47,7 @@ about_content: | # this will include new lines to allow paragraphs
 # experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
-# education_title: Education #(Use this to override about education section title)
+ education_title: PhD in Informatics
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
